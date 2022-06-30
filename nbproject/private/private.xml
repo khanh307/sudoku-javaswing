@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/Views/SudokuBeginFrame.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>63</line>
+                <key/>
+            </bookmark>
+            <bookmark id="1">
+                <name/>
+                <line>184</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Desktop/Nien%20Luan/App/SudokuGame/src/Models/NewClass.java</file>
+            <file>file:/D:/Desktop/Nien%20Luan/App/SudokuGame/src/Views/SudokuFrame.java</file>
+            <file>file:/D:/Desktop/Nien%20Luan/App/SudokuGame/src/Models/SudokuSolver.java</file>
+            <file>file:/D:/Desktop/Nien%20Luan/App/SudokuGame/src/Models/RandomSudoku.java</file>
+        </group>
+    </open-files>
+</project-private>

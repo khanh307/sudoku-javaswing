@@ -1,0 +1,4 @@
+Dễ,Chưa có
+Trung bình,Chưa có
+Khó,Chưa có
+Cực khó,Chưa có
